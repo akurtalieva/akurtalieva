@@ -3,9 +3,6 @@
 ## 🎯 Sobre mí
 Me apasiona todo lo relacionado con tecnologías Cloud (Azure) y la ciberseguridad. Disfruto creando y compartiendo contenido técnico sobre lo que aprendo para ayudar a otros a empezar en estas áreas. 
 
-## 💡 Mi filosofía
-A través de mis experiencias, he aprendido que los desafíos son oportunidades para crecer y superarme. Creo en el aprendizaje continuo como clave para el crecimiento y en la capacidad de adaptarse a nuevos desafíos como motor para la innovación.
-
 ## 🚀 Tecnologías y Herramientas
 - **Cloud**: Azure
 - **Ciberseguridad**: Firewall, SIEM, IDS/IPS.
