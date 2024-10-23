@@ -20,7 +20,7 @@ I am passionate about everything related to cloud technologies (Azure) and cyber
 - **Version Control**: Git
 
 ## 📝 Articles
-**(Under construction)** I like to share my experience and knowledge about Azure and IT security on my personal blog.
+**(Under construction)** I like to share my experience and knowledge about Azure and cybersecurity on my personal blog.
 
 [Blog](https://nosolocloud.com)
 
@@ -31,8 +31,6 @@ You can connect with me through:
 ## ⚡ GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=akurtalieva&show_icons=true&theme=radical)
 
-Thank you for visiting my profile!
-
 ![Azure DevOps](https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azure-devops&logoColor=white)
 ![WordPress](https://img.shields.io/badge/Wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-0078D7?style=for-the-badge&logo=visual-studio-code&logoColor=white)
@@ -40,3 +38,5 @@ Thank you for visiting my profile!
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Microsoft Azure](https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)
 ![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
+
+Thank you for visiting my profile!
