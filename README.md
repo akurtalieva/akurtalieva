@@ -1,18 +1,18 @@
 # ¡Hola! 👋
 
+<div align="center">
+  <a href="README.en.md">English</a> · <a href="README.md">Español</a>
+</div>
+
 ## 🎯 Sobre mí
-Me apasiona todo lo relacionado con tecnologías Cloud (Azure) y la ciberseguridad. 
+Me apasiona todo lo relacionado con tecnologías Cloud (Azure) y la seguridad informática. 
 
 ## 🚀 Tecnologías y Herramientas
 - **Cloud**: Azure
-- **Ciberseguridad**: Firewall, SIEM, IDS/IPS.
 - **Lenguajes**: PowerShell
 - **Herramientas**: Bicep, Docker, VS Code
 - **SO**: Windows, Linux
 - **Control de Versiones**: Git
-- **Frameworks**: Mitre ATT&CK, OWASP Top 10.
-- **Certificaciones**: AZ-900, AZ-104, AZ-140, SC-300, AZ-500, SC-100, Github Foundations.
-
 
 ## 📝 Blog y Artículos
 **(En construcción)** Me gusta compartir mi experiencia y conocimientos tanto sobre Azure como seguridad informática en mi blog personal.
