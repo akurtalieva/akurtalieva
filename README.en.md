@@ -3,6 +3,11 @@
 <div align="center">
   <a href="README.en.md">English</a> · <a href="README.md">Spanish</a>
 </div>
+<br>
+
+<div align="center">
+  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExbnB5eHl1dzAzZHJweDk3MW8xMzM4bWN3ZjlrM2EzZnY2OGQ2NXViNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/g1jxl5GoLVMe9DLSC6/giphy.gif" width="300"/>
+</div>
 
 ## 🎯 About Me
 I am passionate about everything related to Cloud technologies (Azure) and cybersecurity.
