@@ -33,7 +33,7 @@ Puedes conectar conmigo a través de:
   <img src="https://github-readme-stats.vercel.app/api?username=akurtalieva&show_icons=true&theme=radical" alt="Estadísticas de GitHub"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akurtalieva&layout=compact&theme=radical" alt="Lenguajes más usados"/>
 </div>
-
+<br>
 <div align="center">
   <img src="https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azure-devops&logoColor=white" alt="Azure DevOps"/>
   <img src="https://img.shields.io/badge/Wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" alt="WordPress"/>
