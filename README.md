@@ -15,7 +15,7 @@ Me apasiona todo lo relacionado con tecnologías Cloud (Azure) y la cibersegurid
 
 
 ## 📝 Blog y Artículos
-**(En construcción)** Mi blog donde encontrarás artículos sobre Microsoft Azure y ciberseguridad y he participado en la creación de contenidos técnicos y formativos, combinando mi interés por la investigación con mi capacidad para transformar información técnica en guías prácticas.
+**(En construcción)** Me gusta compartir mis experiencias y conocimientos sobre Azure y ciberseguridad en mi blog personal.
 
 [Blog](https://nosolocloud.com)
 
