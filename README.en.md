@@ -10,7 +10,7 @@
 </div>
 
 ## 🎯 About Me
-I am passionate about everything related to Cloud technologies (Azure) and cybersecurity.
+I am passionate about everything related to cloud technologies (Azure) and cybersecurity.
 
 ## 🚀 Technologies and tools
 - **Cloud**: Azure
