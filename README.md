@@ -1,7 +1,7 @@
 # ¡Hola! 👋
 
 ## 🎯 Sobre mí
-Me apasiona todo lo relacionado con tecnologías Cloud (Azure) y la ciberseguridad. Disfruto creando y compartiendo contenido técnico sobre lo que aprendo para ayudar a otros a empezar en estas áreas. 
+Me apasiona todo lo relacionado con tecnologías Cloud (Azure) y la ciberseguridad. 
 
 ## 🚀 Tecnologías y Herramientas
 - **Cloud**: Azure
