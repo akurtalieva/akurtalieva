@@ -12,7 +12,7 @@
 ## 🎯 Sobre mí
 Me apasiona todo lo relacionado con tecnologías Cloud (Azure) y la seguridad informática. 
 
-## 🚀 Tecnologías y Herramientas
+## 🚀 Tecnologías y herramientas
 - **Cloud**: Azure
 - **Lenguajes**: PowerShell
 - **Herramientas**: Bicep, Docker, VS Code
