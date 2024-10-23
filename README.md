@@ -19,7 +19,7 @@ Me apasiona todo lo relacionado con tecnologías Cloud (Azure) y la seguridad in
 - **SO**: Windows, Linux
 - **Control de Versiones**: Git
 
-## 📝 Blog y Artículos
+## 📝 Publicaciones
 **(En construcción)** Me gusta compartir mi experiencia y conocimientos, tanto sobre Azure como seguridad informática, en mi blog personal.
 
 [Blog](https://nosolocloud.com)
