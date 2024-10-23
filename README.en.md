@@ -9,7 +9,7 @@
   <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExbnB5eHl1dzAzZHJweDk3MW8xMzM4bWN3ZjlrM2EzZnY2OGQ2NXViNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/g1jxl5GoLVMe9DLSC6/giphy.gif" width="300"/>
 </div>
 
-## 🎯 About Me
+## 🎯 About me
 I am passionate about everything related to cloud technologies (Azure) and cybersecurity.
 
 ## 🚀 Technologies and tools
@@ -19,7 +19,7 @@ I am passionate about everything related to cloud technologies (Azure) and cyber
 - **OS**: Windows, Linux
 - **Version Control**: Git
 
-## 📝 Blog and Articles
+## 📝 Articles
 **(Under construction)** I like to share my experience and knowledge about Azure and IT security on my personal blog.
 
 [Blog](https://nosolocloud.com)
