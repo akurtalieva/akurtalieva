@@ -43,5 +43,5 @@ Puedes conectar conmigo a través de:
   <img src="https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white" alt="Microsoft Azure"/>
   <img src="https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white" alt="PowerShell"/>
 </div>
-
+<br>
 ¡Gracias por visitar mi perfil!
